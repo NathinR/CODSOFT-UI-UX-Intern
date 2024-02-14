@@ -11,7 +11,11 @@ https://www.figma.com/file/kr7jMNV27ho2pTtLIN8EEH/Codsoft-Signup?type=design&nod
 
 ## TASK 2
 ### E-Mail Template
+Figma Link :
 
+https://www.figma.com/file/Lknqjo1bvZpsY6w4WXqcG1/Untitled?type=design&node-id=0%3A1&mode=design&t=Mqbn3yLUFOmw8fkt-1
+
+![Screenshot 2024-02-14 230034](https://github.com/NathinR/CODSOFT-UI-UX-Intern/assets/118679646/d5d63373-2c18-496b-8a4a-42f5e72b4b3f)
 
 ## TASK 3
 ### Restaurant menu
