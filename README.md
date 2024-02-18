@@ -28,3 +28,8 @@ https://www.figma.com/file/TKBZ3kqH52ghTQnNsgmkJX/Untitled?type=design&node-id=0
 
 ## TASK 4
 ### E-commerce website
+Figma link :
+
+https://www.figma.com/file/m4QSEwZs0KmdUimoaqHfLR/Ecommerce-website?type=design&node-id=0%3A1&mode=design&t=orBQyufUPeFWJcNi-1
+
+![Screenshot 2024-02-18 123956](https://github.com/NathinR/CODSOFT-UI-UX-Intern/assets/118679646/e7693201-ecf8-476d-85ab-29b8d362271b)
